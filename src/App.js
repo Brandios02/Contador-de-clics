@@ -1,5 +1,5 @@
 import './App.css';
-import Boton from './componentes/Boton';
+import Boton from './componentes/Boton1';
 import logo from './imagenes/EstanciasWeb.png';
 
 
